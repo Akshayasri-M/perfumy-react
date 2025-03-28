@@ -12,3 +12,5 @@ A simple e-commerce app where users can browse, filter, and add perfumes to thei
 4.JavaScript: For implementing the app's logic and interactivity.
 
 5.React Hooks: To manage state and lifecycle events within components.
+
+To view the app please visit this site https://perfumy-react-one-kappa.vercel.app/
